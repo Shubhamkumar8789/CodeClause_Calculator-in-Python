@@ -5,3 +5,4 @@ Calculator in Python
 <img width="1041" alt="image" src="https://github.com/Shubhamkumar8789/CodeClause_Calculator-in-Python/assets/129000347/b50a47be-c529-4bcc-ba10-e22b744b9a95">
 
 # screenshots of working model
+<img width="331" alt="image" src="https://github.com/Shubhamkumar8789/CodeClause_Calculator-in-Python/assets/129000347/bfe7703c-051e-4e7f-b69c-4a22a1708a9c">
